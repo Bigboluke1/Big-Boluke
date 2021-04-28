@@ -1,12 +1,8 @@
-# Big-Boluke
-CSC 207 Assignment Trial 2
+
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>BLOW UR MIND
-    </title>
-  </head>
+ 
   <body>
   	
 <h1>KWARA STATE UNIVERISTY MALETE
