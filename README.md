@@ -18,7 +18,7 @@ We are to fight all form of anti- socio behaviors among staff & students and to 
 <img src="kwasu.jpg" align="right" width="123%">
 
 FILL THE  BIO-DATA FORM BELOW <br>
-</title></head>
+</head>
 
 
 
